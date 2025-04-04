@@ -9,3 +9,23 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.row{
+    display: flex;
+    flex-wrap: nowrap
+    
+};
+
+.minutos{
+    margin-right: -5px;
+}
+
+.father{
+    background-color: rgb(0, 0, 0);
+}
+
+.child{
+   color: white;
+};
+.icon{
+    background-color: gray;
+}
